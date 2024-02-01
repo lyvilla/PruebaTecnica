@@ -1,4 +1,4 @@
-# Prueba automatizada para realizar la búsqueda de un video en YouTube
+# Prueba automatizada para la página DEMOQA
 
 # ![Serenity BDD](docs/serenity.png "Logo Title Text 1")
 
